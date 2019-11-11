@@ -1,0 +1,8 @@
+name: Fly
+version: 1.0.0
+author: Minzord
+main: fr.minzord.fly.Main
+
+commands:
+  fly:
+    permission: fly.use

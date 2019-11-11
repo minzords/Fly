@@ -1,0 +1,4 @@
+messages:
+  fly-success-enable: "&c[Fly] &9Flying is enable."
+  fly-success-disable: "&c[Fly] &9Flying is disable."
+  fly-error: "&c[Fly] You don't have the permission for this commands."
