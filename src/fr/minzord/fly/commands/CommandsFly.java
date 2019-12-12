@@ -33,7 +33,7 @@ public class CommandsFly implements CommandExecutor {
 	               return false;
 	            }
 	         } else {
-	            target.sendMessage(main.getConfig().getString("messages. fly-error").replaceAll("&", "§"));
+	            target.sendMessage(main.getConfig().getString("messages.fly-error").replaceAll("&", "§"));
 	            return false;
 	         }
 	     } else {
